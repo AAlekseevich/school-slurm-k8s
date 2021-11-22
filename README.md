@@ -1,4 +1,4 @@
-### Evening School "Kubernetes for Developers" | Вечерняя школа "Kubernetes для разработчиков"
+### Вечерняя школа "Kubernetes для разработчиков"
 
 ### Урок 1: Введение в Kubernetes
   * Что такое Kubernetes
