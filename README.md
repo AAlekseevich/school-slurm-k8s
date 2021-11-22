@@ -1,4 +1,4 @@
-## Evening School "Kubernetes for Developers" | Вечерняя школа "Kubernetes для разработчиков"
+### Evening School "Kubernetes for Developers" | Вечерняя школа "Kubernetes для разработчиков"
 
 ###Урок 1: Введение в Kubernetes
   * Что такое Kubernetes
@@ -41,3 +41,5 @@
 ###Урок 23: CI/CD. Часть 2
 ###Урок 24: Device-plugins для Kubernetes
 ###Урок 25: Подведение итогов
+
+### Evening School "Kubernetes for Developers" | Вечерняя школа "Kubernetes для разработчиков"
